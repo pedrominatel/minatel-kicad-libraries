@@ -1,10 +1,10 @@
-(module USB-TYPE_C_U262-161N-4BVC11 (layer F.Cu) (tedit 5E6535BD)
+(module USB-TYPE_C_U262-161N-4BVC11 (layer F.Cu) (tedit 5E6546BD)
   (descr U262-161N-4BVC11)
   (tags "USB Type C")
-  (fp_text reference USB$1 (at -4.572 -6.604) (layer F.SilkS)
+  (fp_text reference USB$1 (at -3.048 -6.858) (layer F.SilkS)
     (effects (font (size 1.2065 1.2065) (thickness 0.09652)) (justify left bottom))
   )
-  (fp_text value U262-161N-4BVC11 (at 0 4.572) (layer F.Fab) hide
+  (fp_text value U262-161N-4BVC11 (at -8.382 4.318) (layer F.Fab) hide
     (effects (font (size 1.2065 1.2065) (thickness 0.1016)) (justify left bottom))
   )
   (fp_poly (pts (xy 4.699 -3.683) (xy 4.699 -4.699) (xy 4.669998 -4.844802) (xy 4.587408 -4.968408)
