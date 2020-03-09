@@ -1,5 +1,8 @@
-# kicad-libraries
+# KiCad Libraries for Makers!
+
 KiCad Libraries for maker projects.
+
+Use at your own risk!
 
 ## LCSC components libraries
 
