@@ -1,3 +1,15 @@
 [submodule "SparkFun-KiCad-Libraries"]
 	path = SparkFun-KiCad-Libraries
 	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries
+[submodule "KiCad-official/kicad-symbols"]
+	path = KiCad-official/kicad-symbols
+	url = https://github.com/KiCad/kicad-symbols
+[submodule "KiCad-official/kicad-footprints"]
+	path = KiCad-official/kicad-footprints
+	url = https://github.com/KiCad/kicad-footprints
+[submodule "KiCad-official/kicad-templates"]
+	path = KiCad-official/kicad-templates
+	url = https://github.com/KiCad/kicad-templates
+[submodule "KiCad-official/kicad-packages3D"]
+	path = KiCad-official/kicad-packages3D
+	url = https://github.com/KiCad/kicad-packages3D
