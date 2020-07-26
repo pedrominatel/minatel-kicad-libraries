@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP3211KTR-G1
+D Step-Down Positive Adjustable 1 1.5A 1.4MHz SOT-23-6 DC-DC Converters RoHS
+K Step-Down
+F https://www.diodes.com/assets/Datasheets/AP3211.pdf
+$ENDCMP
+#
+$CMP RT8259GE
+D Step-Down Positive Adjustable 1 1.2A 1.4MHz SOT-23-6 DC-DC Converters RoHS
+K Step-Down
+F https://www.richtek.com/assets/product_file/RT8259/DS8259-03.pdf
+$ENDCMP
+#
+#End Doc Library

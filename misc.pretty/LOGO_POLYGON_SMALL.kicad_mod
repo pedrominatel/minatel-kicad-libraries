@@ -1,0 +1,8 @@
+(module LOGO_POLYGON_SMALL (layer F.Cu) (tedit 5EA1A86C)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value LOGO_POLYGON_SMALL (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

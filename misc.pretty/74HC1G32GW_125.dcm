@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC1G32GW,125
+D 74HC(T)1G32 - 2-input OR gate@en-us
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT1G32.pdf
+$ENDCMP
+#
+#End Doc Library

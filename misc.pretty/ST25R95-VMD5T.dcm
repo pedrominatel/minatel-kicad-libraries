@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST25R95-VMD5T
+D STMICROELECTRONICS - ST25R95-VMD5T - RFID, READ/WRITE, 13.567MHZ, VFQFPN-32
+F https://www.st.com/resource/en/datasheet/st25r95.pdf
+$ENDCMP
+#
+#End Doc Library

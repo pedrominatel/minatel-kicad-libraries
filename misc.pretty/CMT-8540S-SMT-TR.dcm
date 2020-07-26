@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CMT-8540S-SMT-TR
+D MAGNETIC BUZZER TRANSDUCER, 4000 Hz
+F http://www.cui.com/product/resource/digikeypdf/cmt-8540s-smt.pdf
+$ENDCMP
+#
+#End Doc Library
