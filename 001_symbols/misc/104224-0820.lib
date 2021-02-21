@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 104224-0820
+#
+DEF 104224-0820 J 0 40 Y Y 1 L N
+F0 "J" -401 431 50 H V L BNN
+F1 "104224-0820" -400 -500 50 H V L BNN
+F2 "MOLEX_104224-0820" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "MOLEX" 0 0 50 H I L BNN "MANUFACTURER"
+F5 "Mnufacturer Recommendation" 0 0 50 H I L BNN "STANDARD"
+F6 "A" 0 0 50 H I L BNN "PARTREV"
+DRAW
+S -400 -400 400 400 0 0 10 f
+X VCC S1 600 300 200 L 40 40 0 0 W 
+X VPP S5 600 200 200 L 40 40 0 0 W 
+X RST S2 -600 -100 200 R 40 40 0 0 I 
+X CLK S3 -600 0 200 R 40 40 0 0 I C
+X GND G1 600 -300 200 L 40 40 0 0 W 
+X GND G2 600 -300 200 L 40 40 0 0 W 
+X GND G3 600 -300 200 L 40 40 0 0 W 
+X GND G4 600 -300 200 L 40 40 0 0 W 
+X GND S4 600 -300 200 L 40 40 0 0 W 
+X I/O S6 600 0 200 L 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library

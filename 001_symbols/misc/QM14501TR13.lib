@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# QM14501TR13
+#
+DEF QM14501TR13 U 0 40 Y Y 1 L N
+F0 "U" -400 420 50 H V L BNN
+F1 "QM14501TR13" -400 -500 50 H V L BNN
+F2 "QORVO_QM14501TR13" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Manufacturer Recommendation" 0 0 50 H I L BNN "STANDARD"
+F5 "E" 0 0 50 H I L BNN "PARTREV"
+F6 "Qorvo" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -400 -400 400 400 0 0 6 f
+X RFIN 1 -600 100 200 R 40 40 0 0 I 
+X GND 4 600 -300 200 L 40 40 0 0 W 
+X SD 3 -600 -100 200 R 40 40 0 0 I 
+X RFOUT 8 600 100 200 L 40 40 0 0 O 
+X VDD 12 600 300 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library
