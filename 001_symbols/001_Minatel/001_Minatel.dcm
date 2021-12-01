@@ -1,0 +1,60 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1-406507-4
+D Modular Connectors / Ethernet Connectors 1X1 P GRD INSLT Y/G
+F https://componentsearchengine.com/Datasheets/5/1-406507-4.pdf
+$ENDCMP
+#
+$CMP 74HC1G32GW,125
+D 74HC(T)1G32 - 2-input OR gate@en-us
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT1G32.pdf
+$ENDCMP
+#
+$CMP ANT3216LL00R2400A
+D Antennas 1W 2.4-2.5GHz ANTENNA
+$ENDCMP
+#
+$CMP AP3211KTR-G1
+D Step-Down Positive Adjustable 1 1.5A 1.4MHz SOT-23-6 DC-DC Converters RoHS
+K Step-Down
+F https://www.diodes.com/assets/Datasheets/AP3211.pdf
+$ENDCMP
+#
+$CMP ATECC608A-MAHCZ-T
+D Security ICs / Authentication ICs ECC/ECDSA/ECDHE SWI 15K reel UDFN
+F https://componentsearchengine.com/Datasheets/1/ATECC608A-MAHCZ-T.pdf
+$ENDCMP
+#
+$CMP CMT-8540S-SMT-TR
+D MAGNETIC BUZZER TRANSDUCER, 4000 Hz
+F http://www.cui.com/product/resource/digikeypdf/cmt-8540s-smt.pdf
+$ENDCMP
+#
+$CMP ENS210
+D Relative Humidity and Temperature Sensor with I2C Interface
+K relative humidity temperature i2c pre-calibrated
+F http://ams.com/eng/Products/Environmental-Sensors/Relative-Humidity-and-Temperature-Sensors/ENS210
+$ENDCMP
+#
+$CMP NFM18PS105R0J3D
+D Murata 6.3Vdc 2A 0603 SMD Signal Filter Murata, EMI Filter, 6.3 V dc, 2A 0603 SMD, Solder Termination, 1.6 x 0.8 x 0.6mm
+F https://psearch.en.murata.com/capacitor/product/NFM18PS105R0J3%23.html
+$ENDCMP
+#
+$CMP SI3402-B-GM
+D Hot Swap Voltage Controllers PoE Powered Device (up to 15W, low-EMI)
+F https://componentsearchengine.com/Datasheets/2/SI3402-B-GM.pdf
+$ENDCMP
+#
+$CMP ST25R95-VMD5T
+D STMICROELECTRONICS - ST25R95-VMD5T - RFID, READ/WRITE, 13.567MHZ, VFQFPN-32
+F https://www.st.com/resource/en/datasheet/st25r95.pdf
+$ENDCMP
+#
+$CMP microSD_Card
+D SD Card Reader
+K CONN SD
+F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
+$ENDCMP
+#
+#End Doc Library
